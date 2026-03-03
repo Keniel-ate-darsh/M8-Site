@@ -4,8 +4,8 @@
       Chapter case
 
       Order Form Code
-      Author: 
-      Date:   
+      Author: Keniel
+      Date:   3/3/26
 
       Filename: js06a.js
  */
